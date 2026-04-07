@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "juanfeSanahuja-claude-plugins",
+  "description": "Security tools for Claude Code — vulnerability scanning for JS/Node, Java and PHP/MySQL projects",
+  "owner": {
+    "name": "juanfeSanahuja"
+  },
+  "plugins": [
+    {
+      "name": "security-checker",
+      "description": "Scan JS/Node, Java and PHP/MySQL projects for security vulnerabilities. Generates structured reports and interactive fix plans.",
+      "category": "security",
+      "source": "./plugins/security-checker",
+      "homepage": "https://github.com/juanfeSanahuja/security-checker"
+    }
+  ]
+}
