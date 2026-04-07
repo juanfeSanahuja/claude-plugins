@@ -1,0 +1,11 @@
+{
+  "name": "security-checker",
+  "description": "Scan JS/Node, Java and PHP/MySQL projects for security vulnerabilities. Generates structured reports and fix plans, and applies fixes directly to your source files.",
+  "author": {
+    "name": "juanfeSanahuja",
+    "url": "https://github.com/juanfeSanahuja"
+  },
+  "version": "1.0.0",
+  "keywords": ["security", "vulnerabilities", "OWASP", "semgrep", "php", "java", "javascript"],
+  "homepage": "https://github.com/juanfeSanahuja/security-checker"
+}
